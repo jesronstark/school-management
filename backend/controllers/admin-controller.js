@@ -20,7 +20,6 @@
 
 
 
-
 const bcrypt = require('bcrypt');
 const Admin = require('../models/adminSchema.js');
 const Sclass = require('../models/sclassSchema.js');
